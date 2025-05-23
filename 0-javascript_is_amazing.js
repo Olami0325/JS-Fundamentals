@@ -8,4 +8,3 @@ You must use console.log(...) to print all output */
 const myVar = 'JavaScript is amazing'
 console.log(myVar);
 
-
