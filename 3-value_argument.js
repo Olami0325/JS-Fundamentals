@@ -9,5 +9,5 @@ const noArg = process.argv.slice(2)
 if(noArg[0]){
     console.log(noArg[0])
 }else{
-    console.log('No argument found')
+    console.log('No argument')
 }
