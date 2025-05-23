@@ -5,6 +5,6 @@ You must use console.log(...) to print all output */
 
 // Solution 
 
-const myVar = 'JavaScript is amazing'
+const myVar = 'javaScript is amazing'
 console.log(myVar);
 
