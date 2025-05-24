@@ -1,9 +1,14 @@
 
 
 const multiLang = ["C is fun", "Python is  is cool", " JavaScript is amazing"];
-let result = ''
+// let result = ''
+
+// for(let i = 0; i < multiLang.length; i++){
+//    result += multiLang[i] + '\n'
+// }
+//  console.log(result.trim())
 
 for(let i = 0; i < multiLang.length; i++){
-   result += multiLang[i] + '\n'
+    console.log(multiLang[i]);
 }
- console.log(result.trim())
+
