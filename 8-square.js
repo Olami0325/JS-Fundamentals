@@ -15,7 +15,7 @@ if (isNaN(square)){
     console.log('Missing size');
 }else {
     for (i = 0; i < square; i++){
-        const row ='x'.repeat(square);
+        const row ='X'.repeat(square);
         console.log(row);
     }
 }
